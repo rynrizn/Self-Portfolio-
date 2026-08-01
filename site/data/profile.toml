@@ -1,18 +1,18 @@
-name = "<un nombre>"
+name = "Ryan"
 role = "<una especialidad o rol>"
 intro = """
 <Escribe aquí una presentación breve: qué construyes, qué te interesa
 y qué tipo de problemas disfrutas resolver.>
 """
-email = "tu@email.com"
+email = "rynthybyan0515@gmail.com"
 linkedin = "https://www.linkedin.com/in/tu-usuario/"
-github = "https://github.com/tu-usuario"
-website = "https://tu-sitio.com"
-location = "<tu ciudad o zona horaria>"
+github = "https://github.com/rynrizn"
+website = "#"
+location = "Bolivia"
 
 [[projects]]
-type = "<tipo de proyecto>"
-year = "<año>"
+type = ""
+year = "2025"
 name = "<nombre del proyecto>"
 description = """
 <Describe el problema, tu contribución y el resultado en dos
