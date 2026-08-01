@@ -1,0 +1,4 @@
+locale = "es-419"
+defaultContentLanguage = "es"
+title = "Sitio personal"
+disableKinds = ["taxonomy", "term", "rss", "sitemap"]

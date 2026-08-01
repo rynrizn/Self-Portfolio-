@@ -1,0 +1,41 @@
+name = "<un nombre>"
+role = "<una especialidad o rol>"
+intro = """
+<Escribe aquí una presentación breve: qué construyes, qué te interesa
+y qué tipo de problemas disfrutas resolver.>
+"""
+email = "tu@email.com"
+linkedin = "https://www.linkedin.com/in/tu-usuario/"
+github = "https://github.com/tu-usuario"
+website = "https://tu-sitio.com"
+location = "<tu ciudad o zona horaria>"
+
+[[projects]]
+type = "<tipo de proyecto>"
+year = "<año>"
+name = "<nombre del proyecto>"
+description = """
+<Describe el problema, tu contribución y el resultado en dos
+oraciones breves.>
+"""
+url = "https://github.com/tu-usuario/tu-proyecto"
+
+[[projects]]
+type = "<actividad o comunidad>"
+year = "<año>"
+name = "<nombre de la actividad>"
+description = """
+<Cuenta qué hiciste, con quién colaboraste y qué aprendiste de
+la experiencia.>
+"""
+url = "https://tu-sitio.com/tu-actividad"
+
+[[projects]]
+type = "<proyecto personal>"
+year = "<año>"
+name = "<nombre del proyecto>"
+description = """
+<Explica la idea principal, las decisiones técnicas y el valor
+que aporta.>
+"""
+url = "https://github.com/tu-usuario/otro-proyecto"
